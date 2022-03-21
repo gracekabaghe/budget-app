@@ -10,9 +10,9 @@ gem 'rails', '~> 7.0.2', '>= 7.0.2.3'
 gem 'sprockets-rails'
 
 # Use sqlite3 as the database for Active Record
-gem 'rubocop', '>= 1.0', '< 2.0'
-gem 'sqlite3', '~> 1.4'
 gem 'devise'
+gem 'pg', '~> 1.1'
+gem 'rubocop', '>= 1.0', '< 2.0'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
