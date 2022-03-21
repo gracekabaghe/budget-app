@@ -5,6 +5,8 @@ ruby '3.0.3'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.2', '>= 7.0.2.3'
+gem 'font-awesome-rails'
+gem 'bootstrap', '~> 5.1.3'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
@@ -13,6 +15,7 @@ gem 'sprockets-rails'
 gem 'devise'
 gem 'pg', '~> 1.1'
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'sass-rails'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
