@@ -10,6 +10,7 @@ Rails.application.routes.draw do
     end
     get '/users/sign_out' => 'devise/sessions#destroy'
   end
+  
 
   resources :splash, only: [:index]
   resources :entities, only: %i[new create destroy] do
