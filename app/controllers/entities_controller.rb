@@ -1,5 +1,4 @@
 class EntitiesController < ActionController::Base
-
   # def index
   #   @entities = current_user.entities.all
   # end
