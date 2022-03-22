@@ -1,4 +1,9 @@
 class EntitiesController < ActionController::Base
+
+  # def index
+  #   @entities = current_user.entities.all
+  # end
+
   def new
     @entity = current_user.entities.new
     @relation = Relation.new(entity: @entity)

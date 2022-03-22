@@ -1,5 +1,5 @@
 class CreateRelations < ActiveRecord::Migration[7.0]
-   def change
+  def change
     create_table :relations, &:timestamps
-  end
+    end
 end
