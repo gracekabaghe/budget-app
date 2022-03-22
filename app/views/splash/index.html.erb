@@ -1,1 +1,32 @@
-Welcome
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ManageBudget</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+  </head>
+
+  <body>
+
+    <section class="body">
+
+      <div class="box">
+
+        <h1>Manage Budget</h1>
+
+        <%= link_to new_entity_path, :class => 'navbar-link', :remote => true do  %>
+          <input type="button" class="first-btn" value="SIGN UP">
+        <%end%>
+        <%= link_to new_group_path :class => 'navbar-link', :remote => true do  %>
+          <input type="button" class="first-btn" value="LOG IN">
+        <%end%>
+        
+      </div>
+
+    </section>
+    
+  </body>
+</html>
