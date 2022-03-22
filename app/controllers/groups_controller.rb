@@ -1,6 +1,7 @@
 class GroupsController < ActionController::Base
   def index
-    @groups = current_user.groups.all
+    # @groups = current_user.groups.all
+    @groups = Group.where(user_id: current_user.id)
   end
 
   def show
