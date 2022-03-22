@@ -5,9 +5,9 @@ ruby '3.0.3'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'bootstrap', '~> 5.1.3'
+gem 'cancancan'
 gem 'font-awesome-rails'
 gem 'rails', '~> 7.0.2', '>= 7.0.2.3'
-gem 'cancancan'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
@@ -22,8 +22,8 @@ gem 'sass-rails'
 gem 'puma', '~> 5.0'
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
-gem 'importmap-rails'
 gem 'dotenv-rails'
+gem 'importmap-rails'
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem 'turbo-rails'
