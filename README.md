@@ -1,24 +1,90 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Budget App
 
-* Ruby version
+# Description
 
-* System dependencies
+This web app, helps you keep track of your budget. You can add categories and detailed transactions
 
-* Configuration
+# Presentation
 
-* Database creation
+- [Presentation-video]()
 
-* Database initialization
+# Live-demo
 
-* How to run the test suite
+- [Live-demo]()
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built With
 
-* Deployment instructions
+- Ruby
+- Git
+- Postgresql
+- RSpec
+- Capybara
+- Devise
 
-* ...
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Copy Repo Link
+
+git@github.com:gracekabaghe/budget-app.git
+```
+- Get the directory that you want to clone the repository.
+
+- Open the command prompt in this directory.
+
+- Copy clone of the Repo
+
+```
+git clone git@github.com:gracekabaghe/budget-app.git
+```
+
+- Go to the repository folder in your command prompt.
+
+```
+cd Budget-app
+```
+- Install bundles
+
+```
+bundle install
+```
+
+- rails s
+```
+
+
+
+### Prerequisites
+
+- Ruby
+- Ruby on Rails
+- Postgresql
+- capybara
+- devise
+- RSpec
+## Authors
+
+👤 **Grace Kabaghe** 
+
+- GitHub: [IGORDON](https://github.com/gracekabaghe)
+- LinkedIn: [Tinyefuza-Gordon) Chang](https://www.linkedin.com/in/grace-kabaghe)
+
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- This project built is in Microverse's FIFth Module.
