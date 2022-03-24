@@ -13,13 +13,16 @@
     
     <nav class="navbar navbar-expand-lg">
 
+      <%= link_to destroy_user_session_path, method: :get do %>
       <i class="fa fa-arrow-left fa-lg" style="color:white"></i>
-
+      
       <a class="navbar-brand" href="/groups">Categories</a>
    
       <%= link_to destroy_user_session_path, method: :get do %>
         <i class="fa fa-sign-out fa-lg" style="color:white" ></i>
       <% end %>
+      <% end %>
+      
    
    </nav>
 
