@@ -64,16 +64,7 @@ rake db:migrate
 - RSpec
 ## Authors
 
-<<<<<<< HEAD
 👤 **Grace Kabaghe** 
-
-- GitHub: [Grace](https://github.com/gracekabaghe)
-- LinkedIn: [Grace](https://www.linkedin.com/in/grace-kabaghe)
-
-
-=======
-👤 **Grace Kabaghe**
->>>>>>> 50e985866852db61ab3e51b79717ced616dcef0a
 
 - [GitHub](https://github.com/gracekabaghe)
 - [LinkedIn](https://www.linkedin.com/in/grace-kabaghe/)
