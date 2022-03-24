@@ -37,7 +37,6 @@ git@github.com:gracekabaghe/budget-app.git
 ```
 cd Budget-app
 ```
-Install bundles
 
 ```
 bundle install
@@ -45,6 +44,32 @@ bundle install
 
 ```
 rails s
+```
+
+##Reset DB
+
+```
+rake db:drop
+rake db:create
+rake db:migrate
+```
+
+## Migration files
+
+```
+**rails generate migration create_groups**
+
+**rails generate migration create_relations**
+
+**rails generate migration create entities**
+
+**rails generate migration create_users**
+
+**rails generate migration add_references_to_relations**
+
+**rails generate migration add_devise_to_users**
+
+**rails generate migration add_confirmable_to_devise**
 ```
 
 
