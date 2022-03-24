@@ -38,15 +38,15 @@ git clone git@github.com:gracekabaghe/budget-app.git
 ```
 cd Budget-app
 ```
-- Install bundles
+Install bundles
 
 ```
 bundle install
 ```
 
-- rails s
 ```
-
+rails s
+```
 
 
 ### Prerequisites
@@ -59,17 +59,14 @@ bundle install
 - RSpec
 ## Authors
 
-👤 **Grace Kabaghe** 
+👤 **Grace Kabaghe**
 
-- LinkedIn: [Tinyefuza-Gordon) Chang](https://www.linkedin.com/in/grace-kabaghe)
-
-
-
+- [GitHub](https://github.com/gracekabaghe)
+- [LinkedIn](https://www.linkedin.com/in/grace-kabaghe/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
@@ -78,4 +75,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project built is in Microverse's FIFth Module.
+- This project built in Microverse's Fourth Module's Capstone.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
