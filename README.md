@@ -2,17 +2,15 @@
 
 # Budget App
 
-# Description
-
 This web app, helps you keep track of your budget. You can add categories and detailed transactions
 
 # Presentation
 
-- [Presentation-video]()
+- [video](https://www.loom.com/share/5eb01e7f3d694d7095f0feea12161fdf)
 
 # Live-demo
 
-- [Live-demo]()
+- [Live-demo](https://railsbudgeting.herokuapp.com/)
 
 ## Built With
 
