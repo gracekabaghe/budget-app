@@ -67,8 +67,8 @@ bundle install
 
 👤 **Grace Kabaghe** 
 
-- GitHub: [IGORDON](https://github.com/gracekabaghe)
-- LinkedIn: [Tinyefuza-Gordon) Chang](https://www.linkedin.com/in/grace-kabaghe)
+- GitHub: [Grace](https://github.com/gracekabaghe)
+- LinkedIn: [Grace](https://www.linkedin.com/in/grace-kabaghe)
 
 
 
