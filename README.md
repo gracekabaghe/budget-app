@@ -25,16 +25,10 @@ This web app, helps you keep track of your budget. You can add categories and de
 
 To get a local copy up and running follow these simple example steps.
 
-- Copy Repo Link
-
-git@github.com:gracekabaghe/budget-app.git
-```
-- Get the directory that you want to clone the repository.
-
-- Open the command prompt in this directory.
-
 - Copy clone of the Repo
 
+```
+git@github.com:gracekabaghe/budget-app.git
 ```
 git clone git@github.com:gracekabaghe/budget-app.git
 ```
