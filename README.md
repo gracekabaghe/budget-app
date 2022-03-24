@@ -29,8 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 git@github.com:gracekabaghe/budget-app.git
-```
-git clone git@github.com:gracekabaghe/budget-app.git
+
 ```
 
 - Go to the repository folder in your command prompt.
